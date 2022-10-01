@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
-global.ytname = "YT: SenuBoy" //ur yt chanel name
+global.vcardowner = ['94763867159'] //ur owner number
+global.ownername = "❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱" //ur owner name
+global.ytname = "YT: KENZO, MODZ" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
+global.owner = ['94763867158']
+global.ownertag = '94763867158' //ur tag number
+global.botname = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.packname = "❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱" //ur sticker watermark packname
+global.author = "abdhul" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
